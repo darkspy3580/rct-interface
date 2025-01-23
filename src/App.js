@@ -8,7 +8,7 @@ import './App.css';
 const getAppLink = (appName) => {
   const deploymentLinks = {
     IF: { local: 'https://bioinformatics-if-prediction.streamlit.app' },
-    Args: { local: 'https://bioinformatics-arg.streamlit.app' },
+    Args: { local: 'https://args-classifier-bioinformatics.streamlit.app' },
     PPIN: { local: 'https://bioinformatics-ppin.streamlit.app' },
     Similarity: { local: 'https://bioinformatics-sililarity.streamlit.app' },
   };
