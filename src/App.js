@@ -54,8 +54,8 @@ const App = () => {
       icon: '🌐',
     },
     {
-      title: 'Similarity',
-      description: 'Explore Similarity Metrics',
+      title: 'Protein-Protein Similarity Analyzer',
+      description: 'Analyzes the similarity between two protein sequences using a machine learning model',
       link: getAppLink('Similarity'),
       icon: '🔗',
     },
