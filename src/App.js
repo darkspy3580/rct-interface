@@ -43,7 +43,9 @@ const App = () => {
     },
     {
       title: 'Args',
-      description: 'ARG Classifier & Mobility Analyzer',
+      description: 'Antibiotic Resistance Gene Classifier & Mobility Analyzer
+
+',
       link: getAppLink('Args'),
       icon: '🧪',
     },
